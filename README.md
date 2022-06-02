@@ -13,3 +13,5 @@ The author of this course is Tim Ruscica, otherwise known as “Tech With Tim”
 
 🔗 YouTube: [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)  
 🔗 LinkedIn: [Tim Ruscica](https://www.linkedin.com/in/tim-ruscica/)
+
+**Note: All the above code was run on TensorFlow v2.8**
