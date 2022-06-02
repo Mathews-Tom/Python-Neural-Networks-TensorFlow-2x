@@ -8,7 +8,7 @@ Throughout the 8 modules in this course you will learn about fundamental concept
 
 Each of these modules include in-depth explanations and a variety of different coding examples. After completing this course you will have a thorough knowledge of the core techniques in machine learning and AI and have the skills necessary to apply these techniques to your own data-sets and unique problems.
 
-### ⭐️ About the Author ⭐️
+#### ⭐️ About the Author ⭐️
 The author of this course is Tim Ruscica, otherwise known as “Tech With Tim” from his educational programming YouTube channel. Tim has a passion for teaching and loves to teach about the world of machine learning and artificial intelligence. Learn more about Tim from the links below:
 
 🔗 YouTube: [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)  
